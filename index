@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Got U Covered</title>
+    <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <link href="content/css/style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div id="container">
+      <div class="header">
+        <div class="header_logo">
+          <img src="/img/logo 1600x1800px.jpg" width="225px" alt="Got U Covered logo" />
+        </div>
+        <div class="header_text">
+          <h1 id="header_shopName">Got U Covered</h1>
+          <h2 id="header_tagline">The One-Stop Wig Shop</h2>
+        </div>
+      </div>
+      <div class="nav">
+        <div><a href="#" class="active">Home</a></div>
+        <div><a href="#">Highlights</a></div>
+        <div><a href="#">Gallery</a></div>
+        <div><a href="#">FAQ</a></div>
+        <div><a href="#">Tips</a></div>
+        <div><a href="#">About</a></div>
+        <div><a href="#">Contact</a></div>
+      </div>
+
+      <div class="content">
+        <h2 class="home">Home</h2>
+        <p class="home">We are THE store you have been waiting for — giving you personal attention and a free consultation. We pride ourselves on making sure that you know exactly what you are getting and that it fits your personal requirements, including budget, texture, length and upkeep WITHOUT COMPROMISING ON QUALITY. <a href="#"><em><bold>Read more...</bold></em></a>
+        <span class="readMore">We will give you all the information you need on each piece you want to purchase. The most important thing is that you end up fully satisfied with your gorgeous purchase. Our motto is "it doesn't matter if I like it, YOU have to LOVE it"!</span></p>
+        <div class="wigImgSampling">
+          <img src="/img/ll14_8_edited.jpg" alt="picture of wig1" />
+          <img src="/img/A5461_1_edited.jpg" alt="picture of wig2" />
+          <img src="/img/206852_467713753312710_655025790_n_opt_1__1_edited.jpg" alt="picture of wig3" />
+        </div>
+        <div class="testimonnials">
+          <div class="quote">
+            <h2>&ldquo;</h2>
+          </div>
+          <div class="testimonnial-text">
+            <p id="testimonial1">In all my experience, Judith is the most honest, caring and sincere person I have ever bought from. I'm so happy with the wig I bought. Everyone thinks it cost a fortune, and I get compliments on it every time I wear it. I'm so thankful for your advice. I couldn't be happier. Keep up the good work. I just wish I lived in Israel so I could do the washes and sets by you. TM</p>
+            <p id="testimonial2">Whoever hasn't visited the GOT U COVERED salon in Ramat Beit Shemesh, you better do it!! I'm so impressed with the selection and quality of their wigs. The women that work there are patient, honest and fun! It was a totally different experience than what I've had at other places. Highly recommend them! MK</p>
+            <p id="testimonial3">Love, love, love my sheitel Judith!! Thanks so much for your time. CK</p>
+            <p id="testimonial4">K, so maybe I was greedy buying three wigs but I don't know when I'm coming back to Israel, and I basically spent the same amount of money on three that I easily could have on one. FG</p>
+            <p id="testimonial5">If anyone wants to buy a high-quality wig without breaking the bank, call GOT U COVERED. They have everything you need. Quality, great prices, and great personalities.</p>
+          </div>
+        </div>
+
+        <div class="container-fluid">
+          <div class="row" id="footer">
+            <div class="col-xs-offset-4 col-xs-6 col-sm-2 col-sm-offset-2 col-md-3 col-md-offset-2" id="contactUs">
+              <h2>Contact Us</h2><br />
+              <p class="contact_title">GOT U COVERED</p>
+              <p>The One - Stop - Wig Shop <br />
+                Rechov Tiveria 5/2 <br />
+                Ramat Shilo, Ramat Beit Shemesh</p><br />
+              <p class="contact_title">Judith Gerzi</p>
+                <p>054-797-4815 <br />
+                By Appointment Only</p>
+            </div>
+            <div class="col-xs-offset-4 col-xs-6 col-sm-3 col-sm-offset-1 col-md-3 col-md-offset-1" id="support">
+              <h2>Support</h2><br />
+              <ul>
+                <a href="#">Contact</a>
+                <a href="#">Highlights</a>
+                <a href="#">FAQ</a>
+                <a href="#">Gallery</a>
+              </ul>
+            </div>
+            <div class="col-xs-offset-4 col-xs-6 col-sm-2 col-md-3" id="socialMedia">
+              <h2>Social Media</h2><br />
+              <a href="https://www.facebook.com/GotUCovered1stopWigShop/" target="_blank"><img src="/img/facebook.png" alt="Facebook logo"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+  </body>
+</html>
