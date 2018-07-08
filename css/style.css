@@ -62,7 +62,6 @@ body ,html{
   clear: both;
   display: inline-block;
 	width: 100%;
-	/*padding-left: 245px;*/
 	background-color: #cabde6;
   color: #010101;
   list-style: none;
@@ -104,11 +103,6 @@ body ,html{
 	padding: 0px;
 	overflow-wrap: break-word;
 }
-
-/*.content h1 {
-	font-family: Helvetica;
-	font-size: 50px;
-}*/
 
 .content h2 {
 	font-family: Helvetica;
@@ -241,7 +235,6 @@ a:active {
 	width: 25%;
 	text-align: left;
 	height: 140px;
-	/*border-right: 1px solid white;*/
 	margin-left: 60px;
 }
 
